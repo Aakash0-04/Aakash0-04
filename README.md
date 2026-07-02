@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Aakash Jaiswal 👋
 
-<!--
-**Aakash0-04/Aakash0-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🐍 Python Developer
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 📚 Currently learning Large Language Models (LLMs) & RAG
+- 🌱 Passionate about building practical AI solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python • NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • FastAPI • Git • GitHub
+
+## 📌 Current Goal
+Build production-ready AI systems and contribute to open-source projects.
