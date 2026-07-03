@@ -8,8 +8,6 @@ Currently learning **Large Language Models (LLMs)** & **RAG**. Passionate about 
 
 **Current Goal:** Build production-ready AI systems.
 
----
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
@@ -21,16 +19,6 @@ Currently learning **Large Language Models (LLMs)** & **RAG**. Passionate about 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
-
----
-
-**Featured Projects**
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| *Coming Soon* | Building something cool with LLMs & RAG | Python, TensorFlow, OpenAI |
-
----
 
 **Connect with me**
 
@@ -45,7 +33,5 @@ Currently learning **Large Language Models (LLMs)** & **RAG**. Passionate about 
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 *Open to collaborations on AI/ML projects. Reach out for discussions on LLMs, RAG, or anything AI!*
