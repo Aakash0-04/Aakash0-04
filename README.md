@@ -1,12 +1,12 @@
-**Aakash Jaiswal** — *Aspiring AI/ML Engineer*
+*Aakash Jaiswal — Aspiring AI/ML Engineer*
 
-Python Developer | Machine Learning & Deep Learning | Computer Vision | NLP
+*Python Developer | Machine Learning & Deep Learning | Computer Vision | NLP*
 
-Currently learning **Large Language Models (LLMs)** & **RAG**. Passionate about building practical AI solutions and contributing to open-source projects.
+*Currently learning Large Language Models (LLMs) & RAG. Passionate about building practical AI solutions and contributing to open-source projects.*
 
-**Tech Stack:** Python • NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • FastAPI • Git • GitHub
+*Tech Stack: Python • NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • FastAPI • Git • GitHub*
 
-**Current Goal:** Build production-ready AI systems.
+*Current Goal: Build production-ready AI systems.*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -20,18 +20,15 @@ Currently learning **Large Language Models (LLMs)** & **RAG**. Passionate about 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-**Connect with me**
+*Connect with me*
 
 <p align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Aakash0-04">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aakash041111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-*Open to collaborations on AI/ML projects. Reach out for discussions on LLMs, RAG, or anything AI!*
+*Open to collaborations on AI/ML projects. Reach out for discussions on LLMs, RAG, or anything AI! 🌱✨*
